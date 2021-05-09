@@ -1,0 +1,23 @@
+{
+  "name": "kafka-service",
+  "version": "1.0.0",
+  "description": "Distributed system with Kafka",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhyanio/kafka-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhyanio/kafka-service/issues"
+  },
+  "homepage": "https://github.com/dhyanio/kafka-service#readme",
+  "dependencies": {
+    "kafkajs": "^1.15.0"
+  }
+}
