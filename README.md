@@ -1,2 +1,5 @@
 # kafka-service
-distributed system with Kafka
+Distributed system with Kafka
+
+- Node.js
+- Docker
